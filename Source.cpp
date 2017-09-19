@@ -15,7 +15,8 @@ int main()
     }
     else
     {
-        cout << "Well then become happy!";
+        cout << "Well then become happy!" << endl;
+        return 0;
     }
     cout << "Do you know it?" << endl;
     cin >> userInput;
