@@ -1,3 +1,5 @@
+/* if happy and know it clap hands */
+
 #include<iostream>
 #include <string>
 using namespace std;
