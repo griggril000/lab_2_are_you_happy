@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     bool ishappy;
+    bool knowsit;
     string userInput;
     cout << "Are you happy? Yes or No?" << endl;
     cin >> userInput;
@@ -17,5 +18,6 @@ int main()
     {
         cout << "Well then become happy!";
     }
+    
 	return 0;
 }
